@@ -1,0 +1,962 @@
+[{
+    "TransactionID": "T7037",
+    "Amount": 406.12,
+    "Timestamp": "2024-09-15 13:50:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "TransactionID": "T2243",
+    "Amount": 165.86,
+    "Timestamp": "2024-09-15 14:23:38",
+    "Location": "New York",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "TransactionID": "T7356",
+    "Amount": 360.73,
+    "Timestamp": "2024-09-15 14:04:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "TransactionID": "T3235",
+    "Amount": 282.75,
+    "Timestamp": "2024-09-15 14:28:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "TransactionID": "T5109",
+    "Amount": 108.79,
+    "Timestamp": "2024-09-15 14:02:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "TransactionID": "T8090",
+    "Amount": 211.34,
+    "Timestamp": "2024-09-15 13:55:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "TransactionID": "T4527",
+    "Amount": 694.04,
+    "Timestamp": "2024-09-15 13:54:38",
+    "Location": "New York",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "TransactionID": "T6775",
+    "Amount": 677.4,
+    "Timestamp": "2024-09-15 14:39:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "TransactionID": "T3032",
+    "Amount": 265.18,
+    "Timestamp": "2024-09-15 13:52:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "TransactionID": "T2754",
+    "Amount": 561.37,
+    "Timestamp": "2024-09-15 13:46:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "TransactionID": "T1407",
+    "Amount": 210.36,
+    "Timestamp": "2024-09-15 13:54:38",
+    "Location": "New York",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "TransactionID": "T5751",
+    "Amount": 194.48,
+    "Timestamp": "2024-09-15 14:26:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "TransactionID": "T9477",
+    "Amount": 13.41,
+    "Timestamp": "2024-09-15 13:44:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578743d"
+    },
+    "TransactionID": "T7623",
+    "Amount": 137.76,
+    "Timestamp": "2024-09-15 13:46:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578743e"
+    },
+    "TransactionID": "T4656",
+    "Amount": 14.91,
+    "Timestamp": "2024-09-15 13:41:38",
+    "Location": "Phoenix",
+    "Merchant": "Unrecognized Merchant",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578743f"
+    },
+    "TransactionID": "T4272",
+    "Amount": 862.61,
+    "Timestamp": "2024-09-15 14:19:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787440"
+    },
+    "TransactionID": "T6345",
+    "Amount": 60.86,
+    "Timestamp": "2024-09-15 13:58:38",
+    "Location": "Texas",
+    "Merchant": "Unrecognized Merchant",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787441"
+    },
+    "TransactionID": "T1609",
+    "Amount": 46.98,
+    "Timestamp": "2024-09-15 14:17:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787442"
+    },
+    "TransactionID": "T2167",
+    "Amount": 141.62,
+    "Timestamp": "2024-09-15 13:42:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787443"
+    },
+    "TransactionID": "T3104",
+    "Amount": 487.62,
+    "Timestamp": "2024-09-15 13:48:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787444"
+    },
+    "TransactionID": "T6175",
+    "Amount": 687.07,
+    "Timestamp": "2024-09-15 14:26:38",
+    "Location": "New York",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787445"
+    },
+    "TransactionID": "T7275",
+    "Amount": 939.29,
+    "Timestamp": "2024-09-15 14:24:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787446"
+    },
+    "TransactionID": "T2532",
+    "Amount": 964.06,
+    "Timestamp": "2024-09-15 14:01:38",
+    "Location": "New York",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787447"
+    },
+    "TransactionID": "T8522",
+    "Amount": 933.57,
+    "Timestamp": "2024-09-15 14:21:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787448"
+    },
+    "TransactionID": "T1109",
+    "Amount": 381.92,
+    "Timestamp": "2024-09-15 14:38:38",
+    "Location": "Boston",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787449"
+    },
+    "TransactionID": "T1120",
+    "Amount": 398.83,
+    "Timestamp": "2024-09-15 14:01:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744a"
+    },
+    "TransactionID": "T8014",
+    "Amount": 888.75,
+    "Timestamp": "2024-09-15 14:23:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744b"
+    },
+    "TransactionID": "T5952",
+    "Amount": 248.57,
+    "Timestamp": "2024-09-15 14:04:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744c"
+    },
+    "TransactionID": "T5221",
+    "Amount": 26.85,
+    "Timestamp": "2024-09-15 13:55:38",
+    "Location": "Phoenix",
+    "Merchant": "Supplement Store",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744d"
+    },
+    "TransactionID": "T7956",
+    "Amount": 265.98,
+    "Timestamp": "2024-09-15 14:08:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744e"
+    },
+    "TransactionID": "T1523",
+    "Amount": 282.68,
+    "Timestamp": "2024-09-15 14:02:38",
+    "Location": "New York",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578744f"
+    },
+    "TransactionID": "T6914",
+    "Amount": 26.98,
+    "Timestamp": "2024-09-15 13:42:38",
+    "Location": "New York",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787450"
+    },
+    "TransactionID": "T6858",
+    "Amount": 479.51,
+    "Timestamp": "2024-09-15 13:48:38",
+    "Location": "Boston",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787451"
+    },
+    "TransactionID": "T5920",
+    "Amount": 524.98,
+    "Timestamp": "2024-09-15 14:21:38",
+    "Location": "Boston",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787452"
+    },
+    "TransactionID": "T4142",
+    "Amount": 292.74,
+    "Timestamp": "2024-09-15 14:00:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787453"
+    },
+    "TransactionID": "T2355",
+    "Amount": 495.98,
+    "Timestamp": "2024-09-15 13:47:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787454"
+    },
+    "TransactionID": "T5787",
+    "Amount": 10.64,
+    "Timestamp": "2024-09-15 14:12:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787455"
+    },
+    "TransactionID": "T8887",
+    "Amount": 49.87,
+    "Timestamp": "2024-09-15 14:03:38",
+    "Location": "New York",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787456"
+    },
+    "TransactionID": "T5213",
+    "Amount": 74.96,
+    "Timestamp": "2024-09-15 14:20:38",
+    "Location": "Phoenix",
+    "Merchant": "Supplement Store",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787457"
+    },
+    "TransactionID": "T3112",
+    "Amount": 975.37,
+    "Timestamp": "2024-09-15 13:59:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787458"
+    },
+    "TransactionID": "T9184",
+    "Amount": 685.04,
+    "Timestamp": "2024-09-15 14:16:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787459"
+    },
+    "TransactionID": "T3250",
+    "Amount": 377.44,
+    "Timestamp": "2024-09-15 13:58:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745a"
+    },
+    "TransactionID": "T1895",
+    "Amount": 889.6,
+    "Timestamp": "2024-09-15 13:53:38",
+    "Location": "New York",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745b"
+    },
+    "TransactionID": "T8065",
+    "Amount": 36.1,
+    "Timestamp": "2024-09-15 13:55:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745c"
+    },
+    "TransactionID": "T6064",
+    "Amount": 876.58,
+    "Timestamp": "2024-09-15 14:24:38",
+    "Location": "New York",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745d"
+    },
+    "TransactionID": "T2845",
+    "Amount": 7.92,
+    "Timestamp": "2024-09-15 13:41:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745e"
+    },
+    "TransactionID": "T6093",
+    "Amount": 988.75,
+    "Timestamp": "2024-09-15 13:52:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578745f"
+    },
+    "TransactionID": "T4178",
+    "Amount": 980.95,
+    "Timestamp": "2024-09-15 13:49:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787460"
+    },
+    "TransactionID": "T7172",
+    "Amount": 151.6,
+    "Timestamp": "2024-09-15 13:47:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787461"
+    },
+    "TransactionID": "T2674",
+    "Amount": 863.64,
+    "Timestamp": "2024-09-15 14:12:38",
+    "Location": "Boston",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787462"
+    },
+    "TransactionID": "T8369",
+    "Amount": 353.16,
+    "Timestamp": "2024-09-15 14:03:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787463"
+    },
+    "TransactionID": "T9021",
+    "Amount": 826.12,
+    "Timestamp": "2024-09-15 14:28:38",
+    "Location": "New York",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787464"
+    },
+    "TransactionID": "T2039",
+    "Amount": 663.71,
+    "Timestamp": "2024-09-15 13:40:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787465"
+    },
+    "TransactionID": "T6611",
+    "Amount": 844.62,
+    "Timestamp": "2024-09-15 13:56:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787466"
+    },
+    "TransactionID": "T9265",
+    "Amount": 852.68,
+    "Timestamp": "2024-09-15 14:09:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787467"
+    },
+    "TransactionID": "T9929",
+    "Amount": 78.79,
+    "Timestamp": "2024-09-15 13:53:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787468"
+    },
+    "TransactionID": "T6896",
+    "Amount": 458.62,
+    "Timestamp": "2024-09-15 13:43:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787469"
+    },
+    "TransactionID": "T1214",
+    "Amount": 476.66,
+    "Timestamp": "2024-09-15 14:30:38",
+    "Location": "New York",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746a"
+    },
+    "TransactionID": "T9252",
+    "Amount": 252.07,
+    "Timestamp": "2024-09-15 14:33:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746b"
+    },
+    "TransactionID": "T1805",
+    "Amount": 27.51,
+    "Timestamp": "2024-09-15 14:27:38",
+    "Location": "Texas",
+    "Merchant": "Random Store",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746c"
+    },
+    "TransactionID": "T7652",
+    "Amount": 215.12,
+    "Timestamp": "2024-09-15 14:39:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746d"
+    },
+    "TransactionID": "T6483",
+    "Amount": 659.46,
+    "Timestamp": "2024-09-15 13:41:38",
+    "Location": "New York",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746e"
+    },
+    "TransactionID": "T4275",
+    "Amount": 901.98,
+    "Timestamp": "2024-09-15 13:46:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578746f"
+    },
+    "TransactionID": "T1265",
+    "Amount": 152.01,
+    "Timestamp": "2024-09-15 14:08:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787470"
+    },
+    "TransactionID": "T5222",
+    "Amount": 893.87,
+    "Timestamp": "2024-09-15 14:06:38",
+    "Location": "Boston",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787471"
+    },
+    "TransactionID": "T9078",
+    "Amount": 441.86,
+    "Timestamp": "2024-09-15 14:27:38",
+    "Location": "New York",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787472"
+    },
+    "TransactionID": "T5325",
+    "Amount": 783.27,
+    "Timestamp": "2024-09-15 14:31:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787473"
+    },
+    "TransactionID": "T4982",
+    "Amount": 507.15,
+    "Timestamp": "2024-09-15 14:22:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787474"
+    },
+    "TransactionID": "T7194",
+    "Amount": 206.79,
+    "Timestamp": "2024-09-15 13:42:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787475"
+    },
+    "TransactionID": "T9393",
+    "Amount": 332.55,
+    "Timestamp": "2024-09-15 14:26:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787476"
+    },
+    "TransactionID": "T7630",
+    "Amount": 163.02,
+    "Timestamp": "2024-09-15 14:05:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787477"
+    },
+    "TransactionID": "T7391",
+    "Amount": 420.15,
+    "Timestamp": "2024-09-15 14:17:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787478"
+    },
+    "TransactionID": "T2601",
+    "Amount": 770.66,
+    "Timestamp": "2024-09-15 13:55:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787479"
+    },
+    "TransactionID": "T5336",
+    "Amount": 254.87,
+    "Timestamp": "2024-09-15 14:21:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747a"
+    },
+    "TransactionID": "T2349",
+    "Amount": 491.75,
+    "Timestamp": "2024-09-15 14:36:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747b"
+    },
+    "TransactionID": "T3213",
+    "Amount": 280.55,
+    "Timestamp": "2024-09-15 14:21:38",
+    "Location": "New York",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747c"
+    },
+    "TransactionID": "T9356",
+    "Amount": 988.69,
+    "Timestamp": "2024-09-15 14:07:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747d"
+    },
+    "TransactionID": "T5194",
+    "Amount": 49.62,
+    "Timestamp": "2024-09-15 14:34:38",
+    "Location": "Boston",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747e"
+    },
+    "TransactionID": "T7785",
+    "Amount": 390.62,
+    "Timestamp": "2024-09-15 13:53:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578747f"
+    },
+    "TransactionID": "T8788",
+    "Amount": 172.03,
+    "Timestamp": "2024-09-15 14:12:38",
+    "Location": "Boston",
+    "Merchant": "Target",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787480"
+    },
+    "TransactionID": "T8766",
+    "Amount": 463.49,
+    "Timestamp": "2024-09-15 13:58:38",
+    "Location": "New York",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787481"
+    },
+    "TransactionID": "T2988",
+    "Amount": 427.09,
+    "Timestamp": "2024-09-15 14:19:38",
+    "Location": "Boston",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787482"
+    },
+    "TransactionID": "T5864",
+    "Amount": 70.82,
+    "Timestamp": "2024-09-15 14:17:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787483"
+    },
+    "TransactionID": "T3409",
+    "Amount": 602.3,
+    "Timestamp": "2024-09-15 14:01:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787484"
+    },
+    "TransactionID": "T6029",
+    "Amount": 22.22,
+    "Timestamp": "2024-09-15 14:20:38",
+    "Location": "Texas",
+    "Merchant": "Unrecognized Merchant",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787485"
+    },
+    "TransactionID": "T4384",
+    "Amount": 11.55,
+    "Timestamp": "2024-09-15 14:37:38",
+    "Location": "Texas",
+    "Merchant": "Supplement Store",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787486"
+    },
+    "TransactionID": "T4317",
+    "Amount": 206.89,
+    "Timestamp": "2024-09-15 13:59:38",
+    "Location": "New York",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787487"
+    },
+    "TransactionID": "T5615",
+    "Amount": 838.83,
+    "Timestamp": "2024-09-15 13:59:38",
+    "Location": "New York",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787488"
+    },
+    "TransactionID": "T3300",
+    "Amount": 445.25,
+    "Timestamp": "2024-09-15 13:52:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787489"
+    },
+    "TransactionID": "T2874",
+    "Amount": 681.95,
+    "Timestamp": "2024-09-15 14:35:38",
+    "Location": "Boston",
+    "Merchant": "Starbucks",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748a"
+    },
+    "TransactionID": "T3852",
+    "Amount": 365.73,
+    "Timestamp": "2024-09-15 14:17:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748b"
+    },
+    "TransactionID": "T7338",
+    "Amount": 412.35,
+    "Timestamp": "2024-09-15 13:52:38",
+    "Location": "New York",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748c"
+    },
+    "TransactionID": "T7485",
+    "Amount": 687.67,
+    "Timestamp": "2024-09-15 14:22:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748d"
+    },
+    "TransactionID": "T6414",
+    "Amount": 251.44,
+    "Timestamp": "2024-09-15 13:43:38",
+    "Location": "Boston",
+    "Merchant": "Lyft",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748e"
+    },
+    "TransactionID": "T9693",
+    "Amount": 5.93,
+    "Timestamp": "2024-09-15 14:11:38",
+    "Location": "Boston",
+    "Merchant": "ATM",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb578748f"
+    },
+    "TransactionID": "T1263",
+    "Amount": 10.66,
+    "Timestamp": "2024-09-15 14:21:38",
+    "Location": "Texas",
+    "Merchant": "Unrecognized Merchant",
+    "Fraud": true
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787490"
+    },
+    "TransactionID": "T3540",
+    "Amount": 649.06,
+    "Timestamp": "2024-09-15 14:05:38",
+    "Location": "Boston",
+    "Merchant": "Amazon",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787491"
+    },
+    "TransactionID": "T1361",
+    "Amount": 435.9,
+    "Timestamp": "2024-09-15 14:30:38",
+    "Location": "Boston",
+    "Merchant": "Walmart",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787492"
+    },
+    "TransactionID": "T1708",
+    "Amount": 895.97,
+    "Timestamp": "2024-09-15 14:08:38",
+    "Location": "New York",
+    "Merchant": "Netflix",
+    "Fraud": false
+  },{
+    "_id": {
+      "$oid": "66e75576b5224a4bb5787493"
+    },
+    "TransactionID": "T8612",
+    "Amount": 428.2,
+    "Timestamp": "2024-09-15 13:53:38",
+    "Location": "New York",
+    "Merchant": "Lyft",
+    "Fraud": false
+  }]
